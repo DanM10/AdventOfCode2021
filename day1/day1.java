@@ -48,8 +48,8 @@ public static void main(String[] args){
         x=0;
         y=0;
         z=0;
-        ArrayList<Integer> valorF = new ArrayList<>();
-            boolean clubEPN = true;
+
+
         while (x+2<aux.size()-1){
             x=y+1;
             int suma1 = aux.get(y)+aux.get(y+1)+aux.get(y+2);
